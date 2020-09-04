@@ -1,7 +1,7 @@
 /**
 * @Author : henry
 * @Data: 2020-07-03 18:53
-* @Note: 有Bug  page126.go 46对比原书
+* @Note: 有Bug  bug  page126.go 46对比原书
 **/
 
 package main
